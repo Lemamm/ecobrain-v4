@@ -28,7 +28,7 @@ ecobrain_v4_ai/ ├── app.py ← Interface principale Streamlit ├── en
 ## 🚀 Lancer en local
 
 ```bash
-git clone https://github.com/votre_utilisateur/ecobrain_v4_ai.git
+git clone https://github.com/Lemamm/ecobrain_v4_ai.git
 cd ecobrain_v4_ai
 pip install -r requirements.txt
 streamlit run app.py
