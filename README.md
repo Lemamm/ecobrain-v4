@@ -33,7 +33,9 @@ cd ecobrain_v4_ai
 pip install -r requirements.txt
 streamlit run app.py
 
-📌 Objectif
+---
+
+## 📌 Objectif
 
 Créer un "cerveau planétaire" éthique, transparent et non discriminant capable de guider les populations vers une réduction collective de leur impact écologique.
 
