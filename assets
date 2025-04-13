@@ -1,1 +1,6 @@
+st.set_page_config(
+    page_title="EcoBrain",
+    page_icon="assets/favicon.png",
+    layout="wide"
+)
 
