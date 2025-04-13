@@ -25,16 +25,6 @@ ecobrain_v4_ai/ ├── app.py ← Interface principale Streamlit ├── en
 
 ---
 
-## 🚀 Lancer en local
-
-```bash
-git clone https://github.com/Lemamm/ecobrain_v4_ai.git
-cd ecobrain_v4_ai
-pip install -r requirements.txt
-streamlit run app.py
-
----
-
 ## 📌 Objectif
 
 Créer un "cerveau planétaire" éthique, transparent et non discriminant capable de guider les populations vers une réduction collective de leur impact écologique.
@@ -45,3 +35,14 @@ Créer un "cerveau planétaire" éthique, transparent et non discriminant capabl
 
 Projet imaginé par Lemamm
 Contributions bienvenues : Forkez, testez, proposez vos modules !
+
+## 🚀 Lancer en local
+
+```bash
+git clone https://github.com/Lemamm/ecobrain_v4_ai.git
+cd ecobrain_v4_ai
+pip install -r requirements.txt
+streamlit run app.py
+
+
+
